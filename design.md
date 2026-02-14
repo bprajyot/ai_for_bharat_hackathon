@@ -27,7 +27,7 @@ The system is divided into five major layers:
 
 ### High-Level Architecture Diagram
 
-![System Architecture](./images/architecture.png)
+![System Architecture](./images/system_architecture.png)
 
 ---
 
